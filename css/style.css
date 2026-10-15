@@ -9,7 +9,7 @@ body {
 }
 
 #site-header {
-    padding: 15px;
+    padding: 16px;
     border: 1px solid #ccc;
 }
 
@@ -21,7 +21,7 @@ body {
 .card-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
+    gap: 16px;
 }
 
 .register-form input {
